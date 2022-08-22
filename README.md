@@ -8,11 +8,7 @@ This github repo deposits the data statement and code we used for our research p
 
 ## Paper citation
 
-Sun, M., Han, C., Nie, Q., Xu, J., Zhang, F., & Zhao, Q. (2022, May 4). Understanding Building Energy Efficiency with Administrative and Emerging Urban Big Data by Deep Learning in Glasgow. https://doi.org/10.31219/osf.io/g8p4f
-
-## Link to paper
-
-[Preprint](https://osf.io/g8p4f/)
+Sun, M., Han, C., Nie, Q., Xu, J., Zhang, F., & Zhao, Q. (2022). Understanding building energy efficiency with administrative and emerging urban big data by deep learning in Glasgow. Energy and Buildings, 273, 112331. https://doi.org/10.1016/j.enbuild.2022.112331
 
 ## Acknowledgement
 
